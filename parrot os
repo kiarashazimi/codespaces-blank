@@ -1,0 +1,48 @@
+1. ls: نمایش محتویات یک دایرکتوری.
+   
+   ls -l
+   
+
+2. cd: تغییر دایرکتوری.
+   
+   cd /path/to/directory
+   
+
+3. pwd: نمایش مسیر دایرکتوری فعلی.
+   
+   pwd
+   
+
+4. cp: کپی فایل‌ها و دایرکتوری‌ها.
+   
+   cp source_file destination_file
+   
+
+5. mv: جابجایی یا تغییر نام فایل‌ها و دایرکتوری‌ها.
+   
+   mv old_name new_name
+   
+
+6. rm: حذف فایل‌ها و دایرکتوری‌ها.
+   
+   rm file_name
+   
+
+7. mkdir: ایجاد یک دایرکتوری جدید.
+   
+   mkdir new_directory
+   
+
+8. apt update: به‌روزرسانی فهرست بسته‌ها.
+   
+   sudo apt update
+   
+
+9. apt upgrade: به‌روزرسانی بسته‌های نصب‌شده به نسخه‌های جدیدتر.
+   
+   sudo apt upgrade
+   
+
+10. man: نمایش صفحه راهنمای یک دستور.
+    
+    man command_name
